@@ -2,4 +2,4 @@
 
 Wednesday
 
-Contributed to by Alex Goodchild, Code Ninja
+Contributed to by Alex G, Code Ninja
